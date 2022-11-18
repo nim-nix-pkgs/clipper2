@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334418,
-        "narHash": "sha256-nPxJR2/OPpPpQzIz7TGbglSbWsU8RxfnTA26hwXnU0I=",
+        "lastModified": 1668748699,
+        "narHash": "sha256-1tgr8Dqxx6jMNnDOhIEMnAZGmlWAwQcCVscaL5J4ezY=",
         "owner": "nim-nix-pkgs",
         "repo": "clipper2",
-        "rev": "35e55015f1f70534c8f71045cb14bef3079e0834",
+        "rev": "49aed538f339b38413d5a3b4d9bc345f5bb26f72",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667334418,
-        "narHash": "sha256-nPxJR2/OPpPpQzIz7TGbglSbWsU8RxfnTA26hwXnU0I=",
+        "lastModified": 1668748699,
+        "narHash": "sha256-1tgr8Dqxx6jMNnDOhIEMnAZGmlWAwQcCVscaL5J4ezY=",
         "owner": "nim-nix-pkgs",
         "repo": "clipper2",
-        "rev": "35e55015f1f70534c8f71045cb14bef3079e0834",
+        "rev": "49aed538f339b38413d5a3b4d9bc345f5bb26f72",
         "type": "github"
       },
       "original": {
